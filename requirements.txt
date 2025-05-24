@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 python-telegram-bot==20.6
-openai
+openai==0.28
 apscheduler
 python-dotenv
